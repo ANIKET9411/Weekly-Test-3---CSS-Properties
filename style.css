@@ -13,6 +13,7 @@
     background: linear-gradient(90deg,#23074d,#cc5333);
     color: white;
     font-weight: bold;
+    
 }
 /* .nav{
     background-color: black;
@@ -26,6 +27,9 @@ ul{
      color: white;
      font-weight: bold;
      font-size:0.90em;
+     position: sticky;
+     top:0;
+     z-index: 7;
 }
 input{
     width:400px;
